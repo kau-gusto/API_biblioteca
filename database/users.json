@@ -1,0 +1,1 @@
+{"1": {"id": 1, "email": "user@email.com", "name": "usuario", "password": "1234", "is_admin": false, "books_ids": []}, "2": {"id": 2, "email": "admin@email.com", "name": "administrador", "password": "4321", "is_admin": true, "books_ids": []}}
