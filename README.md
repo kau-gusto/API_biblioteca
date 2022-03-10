@@ -9,7 +9,7 @@
    - o usuario não está cadastrado no sistema
 3. "Forbidden", 403
 
-   - o usuario não possui permissão
+   - o methodo utilizado não é permitido
 
 4. "Not Acceptable", 406
 5. "Conflict", 409
